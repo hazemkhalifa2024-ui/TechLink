@@ -1,0 +1,17 @@
+{
+  "name": "techlink-yemen",
+  "version": "1.0.0",
+  "description": "TechLink Yemen — Arabic-first mobile shop & technician marketplace",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
